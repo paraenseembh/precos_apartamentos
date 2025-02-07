@@ -1,6 +1,9 @@
 # Desafio Lighthouse - predição de preços de apartamentos
 
 Esse projeto objetiva desenvolver um modelo de previsão de preços a partir do dataset oferecido, e avaliar tal modelo utilizando as métricas de avaliação que mais fazem sentido para o problema. O uso de outras fontes de dados além do dataset é permitido (e encorajado). 
+
+Arquivo de entrega final está na pasta SRC. 
+
 ## Integrantes
 
 * Lucas Rafael Pessoa do Nascimento
