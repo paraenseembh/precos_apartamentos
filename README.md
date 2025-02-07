@@ -4,7 +4,7 @@ Esse projeto objetiva desenvolver um modelo de previsão de preços a partir do 
 
 Arquivo de entrega final está na pasta SRC. 
 
-Vídeo explicativo: https://youtu.be/DNQYSWQNL-4
+Vídeo explicativo: https://youtu.be/DNQYSWQNL-4 OU https://drive.google.com/file/d/1fGJzD5Pna3mkvT-869gXmTIfumcPyMIk/view?usp=drive_link
 
 ## Integrantes
 
