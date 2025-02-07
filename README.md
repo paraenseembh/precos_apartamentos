@@ -4,6 +4,8 @@ Esse projeto objetiva desenvolver um modelo de previsão de preços a partir do 
 
 Arquivo de entrega final está na pasta SRC. 
 
+Vídeo explicativo: https://youtu.be/DNQYSWQNL-4
+
 ## Integrantes
 
 * Lucas Rafael Pessoa do Nascimento
